@@ -38,7 +38,7 @@ We invite additional partners, and anticipate this list growing in the future. I
 
 ## 🛠️ Contributing
 
-We welcome contributions from bioinformaticians, epidemiologists, software developers, and researchers! 
+Do you want to contribute to APGAP? We would be delighted! 
 
 1.  **Explore:** Check out our active repositories and open issues.
 2.  **Fork & Branch:** Fork the repository you wish to contribute to and create a branch named `feature/your-feature-name` or `bugfix/your-bug-name`.
