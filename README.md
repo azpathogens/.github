@@ -1,22 +1,21 @@
-# Arizona Pathogen Genomics Program (APGAP)
+# Arizona Pathogen Genomics Analytics Platform (APGAP)
 
-Welcome to the official GitHub organization for the **Arizona Pathogen Genomics Program (APGAP)**. 
+Welcome to the official GitHub organization for the **Arizona Pathogen Genomics Analytics Platform (APGAP)**. 
 
-APGAP is a collaborative statewide initiative dedicated to integrating genomic sequencing, epidemiology, and bioinformatics into Arizona's public health infrastructure. Our mission is to track, analyze, and mitigate infectious disease threats across the state through cutting-edge genomic surveillance.
+APGAP is a statewide initiative to centralize and optimize actionable use of pathogen genomic data for public health across Arizona. The platform is a collaborative resource for pathogen genomics data sharing and analysis, supporting work with viral, bacterial, and fungal pathogens from diverse sources.
 
 🔗 **Learn more:** [azpathogens.org](https://azpathogens.org/)
 
 ---
 
-## 🔬 About the Program
+## 🔬 About the Platform
 
-The Arizona Pathogen Genomics Program brings together public health laboratories, academic institutions, healthcare providers, and community partners. By analyzing the genetic blueprints of pathogens circulating in Arizona, we provide actionable data to public health officials, enabling rapid outbreak detection, variant tracking, and informed decision-making.
+The Arizona Pathogen Genomics Analytics Platform brings together public health and academic researchers, with a goal of expanding to include healthcare providers and community partners, as well. By securely contributing pathogen genome sequences and analyzing the genetic features of pathogens circulating in Arizona, users can easily share data with public health officials and stakeholders, enabling rapid outbreak detection, variant tracking, and informed decision-making.
 
 ### Key Objectives:
-* **Statewide Genomic Surveillance:** Sequence and analyze pathogen genomes (including SARS-CoV-2, influenza, RSV, vector-borne pathogens, and antimicrobial-resistant bacteria) to monitor lineages and mutations.
-* **Public Health Integration:** Translate complex genomic data into epidemiological insights to support local and state public health responses.
+* **Statewide Resource for Pathogen Genomes:** Contribute and request genome sequences, viewable to authorized public health and requestable by others for ease in collaboration with other researchers and stakeholders. Importantly, contributors retain ownership of the data they share into the platform.
 * **Bioinformatics Infrastructure:** Develop and maintain open-source, reproducible, and scalable pipelines for pathogen sequence analysis.
-* **Capacity Building & Training:** Equip public health professionals and researchers with the skills required for genomic epidemiology and bioinformatics.
+* **Capacity Building:** Equip public health professionals and researchers of a wide range of skill levels with the tools required for genomic epidemiology and bioinformatics, on infrastructure that scales up as needed to support large-scale outbreak investigations.
 
 ---
 
@@ -30,11 +29,10 @@ The repositories in this organization support our data processing, analysis, and
 
 APGAP is made possible through strong partnerships across Arizona, including:
 * **Arizona Department of Health Services (ADHS)**
-* **Translational Genomics Research Institute (TGen)**
 * **Northern Arizona University (NAU)**
 * **University of Arizona (UArizona)**
 * **Arizona State University (ASU)**
-* County and tribal public health departments across the state.
+We invite additional partners, and anticipate this list growing in the future. If you would like to join us, send an inquiry through the contact form on the main website, linked below. 
 
 ---
 
