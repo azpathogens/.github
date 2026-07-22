@@ -19,12 +19,6 @@ The Arizona Pathogen Genomics Analytics Platform brings together public health a
 
 ---
 
-## 💻 Software & Bioinformatics
-
-The repositories in this organization support our data processing, analysis, and visualization workflows. We prioritize open science and reproducible workflows.
-
----
-
 ## 🤝 Participating Partners
 
 APGAP is made possible through strong partnerships across Arizona, including:
